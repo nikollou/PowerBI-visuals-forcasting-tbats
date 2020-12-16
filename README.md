@@ -1,3 +1,7 @@
+Forked because I want to try to add the following features:
+1) Add a third seasonality (daily sales data of a retailer usually have annual - month - week seasonalities)
+2) Have the ability to somehow incorporate holiday information as extra variables to the forecast
+
 
 # Contributing
 
